@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=bb-dojo\&repo=weiqi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=bb-dojo\&repo=WeiChi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&show_owner=true)
+<a href="https://github.com/BB-Dojo/weiqi" target="_blank"> 
+  <img src="/weiqi.png" alt="weiqi" />
+</a>
+<a href="https://github.com/BB-Dojo/WeiChi" target="_blank"> 
+  <img src="/WeiChi.png" alt="WeiChi" />
+</a>
+
 <!--
 **BB-Studio/BB-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
