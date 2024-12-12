@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<a href="https://github.com/BB-Dojo/weiqi" target="_blank"> 
-  <img src="/weiqi.png" alt="weiqi" />
-</a>
-<a href="https://github.com/BB-Dojo/WeiChi" target="_blank"> 
-  <img src="/WeiChi.png" alt="WeiChi" />
-</a>
+| BB-Dojo/weiqi | BB-Dojo/WeiChi |
+|------|------|
+| <a href="https://github.com/BB-Dojo/weiqi" target="_blank"><img src="/weiqi.png" alt="weiqi" /></a>  | <a href="https://github.com/BB-Dojo/WeiChi" target="_blank"><img src="/WeiChi.png" alt="weiqi" /></a>  |
+
 
 <!--
 **BB-Studio/BB-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
